@@ -1,3 +1,3 @@
 ### Opa, tudo bom?
-- 🔭 Procurando estágio ou primeiro emprego em Desenvolvimento
-- 🌱 Estudante de Engenharia de Computação, sétimo período
+- 🔭 Estagiário em Desenvolvimento Mobile com Flutter
+- 🌱 Estudante de Engenharia de Computação, oitavo período
