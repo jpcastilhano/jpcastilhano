@@ -1,4 +1,4 @@
-### Opa, tudo bom?
+## Opa, tudo bom?
 - 🔭 Desenvolvedor web/mobile React/Flutter
 - 🌱 Engenheiro da Computação pela Universidade de Ribeirão Preto
 
